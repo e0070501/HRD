@@ -1,0 +1,12 @@
+@charset "UTF-8";
+*      {margin: 0;padding: 0;}
+a      {color:inherit;text-decoration: none;}
+nav a  {padding-left: 33px;}
+h2     {text-align: center;padding: 11px;}
+p      {padding: 11px;}
+main   {width: 1000px;margin: 0 auto;}
+header {width: 100%;height:  70px;background: #00f;color:#FFF;text-align: center;line-height: 70px}
+nav    {width: 100%;height:  50px;background: #AAf;color:#FFF;line-height: 50px}
+section{width: 100%;height: 400px;background: #eef;}
+footer {width: 100%;height:  50px;background: #00f;}
+footer h2{color:#FFF}
