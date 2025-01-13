@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+*{
+	margin: 0 auto;
+	padding: 0;
+}
+
+table,td,th{
+	border: 1px solid #000;
+	text-align: center;
+}
+table{
+	width: 80%;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+h1{
+	color: #fff;
+}
+
+body{
+	width: 1000px;
+	height: 600px;
+}
+
+header{
+	width: 100%;
+	height: 100px;
+	background-color: blue;
+	text-align: center;
+	align-content: center;
+}
+nav{
+	width: 100%;
+	height: 50px;
+	background-color: pink;
+	text-align: start;
+	align-content: center;
+}
+section{
+	width: 100%;
+	height: 400px;
+	text-align: start;
+}
+section > h2{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	align-content: center;
+}
+footer{
+	width: 100%;
+	height: 50px;
+	background-color: blue;
+	text-align: center;
+	align-content: center;
+}
+h3{
+	font-size: 24px;
+	color: #fff;
+}
